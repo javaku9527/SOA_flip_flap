@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.16.3)
+    minitest-rg (5.2.0)
+      minitest (~> 5.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  minitest
+  minitest-rg
+
+BUNDLED WITH
+   2.3.7
